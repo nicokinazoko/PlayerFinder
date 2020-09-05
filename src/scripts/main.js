@@ -34,7 +34,7 @@ function main()
                                                             `
                                                             <div class="col mb-4">
                                                                 <div class="card h-100">
-                                                                    <img src="${player.strCutout}" class="card-img-top" alt="...">
+                                                                    <img src="${player.strCutout}/preview" class="card-img-top" alt="...">
                                                                     <div class="card-body">
                                                                         <h5 class="card-title">${player.strPlayer}</h5>
                                                                         <p class="card-text">${player.strDescriptionEN}</p>
